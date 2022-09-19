@@ -7,7 +7,7 @@ Minishell runs executables from an absolute, relative or environment PATH (/bin/
 
 You can use redirections (> >> <), herdoc (<<) and pipes |.
 
-Environment variables are handled, like $HOME, including the return code $?.
+Environment variables are handled, like ($HOME), including the return code ($?).
 
 Finally, you can use Ctrl-C to interrupt as well as Ctrl-D, same as in bash.
 
