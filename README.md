@@ -15,8 +15,8 @@ A few of the functions are "built-in", meaning we don't call the executable, we 
 
 Credit
 
-This two-person project was done with https://github.com/MbarekManouze .
+The project was done with my friend https://github.com/MbarekManouze .
 
 I was responsible for the parsing, environment variables, built-in functions and signal handling.
 
-mmanouze took care of the execution, redirections, herdoc and piping.
+mmanouze took care of the execution, redirections, herdoc, piping and exit status.
